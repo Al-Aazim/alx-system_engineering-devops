@@ -1,2 +1,2 @@
 #!/bin/bash
-chown aazim:team *
+chown aazim:staff *
