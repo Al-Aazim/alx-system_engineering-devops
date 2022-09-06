@@ -1,1 +1,1 @@
-TRUEKNOWLEDGE
+Devide and Rule
